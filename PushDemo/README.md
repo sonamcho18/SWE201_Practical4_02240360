@@ -65,4 +65,4 @@ Explanation:
 
 ### Screenshot
 
-[!screenshot](image/screenshot1.png)
+![Screenshot](image/screenshot2.jpeg)
